@@ -11,7 +11,6 @@ labels:
   - Mentoring
   - Laboring
 summary: Two week-long service trips to help build schools in socioeconomically broken communities.
-projecturl: https://www.seedsoflearning.org/?doing_wp_cron=1535694716.1302340030670166015625
 ---
 
 <img class="ui medium right floated rounded image" src="../master/NicProject.jpeg">
