@@ -8,8 +8,8 @@
     "website": "https://SamZyskowski.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "676 Aipo Street",
+      "postalCode": "96825",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -46,36 +46,22 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "HTML"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2017-08-15",
+      "endDate": "2021-05-17",
       "gpa": "",
       "courses": [
       ]
