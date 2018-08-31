@@ -18,5 +18,5 @@ projecturl: https://www.seedsoflearning.org/?doing_wp_cron=1535694716.1302340030
 
 Our group, through the nonprofit organization Seeds of Learning, fundraised year-round for a week-long trip to Nicaragua.  There we helped local workers break ground for a new school building, and stayed in the community with the native people.  We took part in numerous cultural exchange activities with all the children there, as well as the rest of the locals. 
 
-During the two years I went on these trips, I not only grew as a young adult and as an individual, but as a leader as well.  Taking charge with the older locals on the jobsite showed me how respect and brotherhood knows no cultural boundaries when it comes to working towards a common goal, or providing for one's community.
+During the two years I went on these trips, I not only grew as a young adult and as an individual, but as a leader as well.  Taking charge with the older locals on the jobsite showed me how respect and brotherhood knows no cultural boundaries when it comes to working towards a common goal, and providing for one's community.
   
