@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: master/NicProject.jpeg
+image: images/NicProject.jpeg
 title: Nicaragua
 permalink: projects/nicaragua
 # All dates must be YYYY-MM-DD format!
