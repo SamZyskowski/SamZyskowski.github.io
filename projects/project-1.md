@@ -2,43 +2,21 @@
 layout: project
 type: project
 image: master/gameProject.jpg
-title: 
-permalink: projects/micromouse
+title: Binary Search Tree
+permalink: projects/BinarySearchTree
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-04-12
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Object Oriented Programming
+  - Java
+  - Binary Search
+summary: This is a project I created for a CS class I took as a Freshman that implemented a binary search tree to sort and compare contacts based on first name, last name and phone number.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This was one of the culminating assignments to finish of the semester.  We were assigned to implement a binary search tree using node-based structure to organize passed in contacts in the form of ("First name", "Last name", XXX-XXX-XXXX).  Through the completion of this project, I learned not only the importance of organized and consistent code, but the neccessity of testing.  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Prior to this CS class, I hadn't ever been exposed to the world of testing one's code again and again along the way to ensure the reliability of a program.  It was quite the rude awakening when I learned that we would have to test both our homework assignments as well as each of our lab exercises.  As any disgruntled student would, I found this tedious and unnecessary in the beginning, yet as the semester progressed, so did my appreciation for this strategy of programming.  I know now the importance of testing one's own code, and will undoubtedly use it far into my professional career. 
 
 
 
