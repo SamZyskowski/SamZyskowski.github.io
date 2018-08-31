@@ -5,7 +5,7 @@ image: images/mathProject.jpg
 title: Math Tutor
 permalink: projects/mathtutor
 # All dates must be YYYY-MM-DD format!
-date: 2015-1-10
+date: 2015-01-10
 labels:
   - Tutoring
   - Math
