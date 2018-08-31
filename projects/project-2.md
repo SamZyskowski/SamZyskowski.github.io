@@ -5,7 +5,7 @@ image: images/NicProject.jpeg
 title: Nicaragua
 permalink: projects/nicaragua
 # All dates must be YYYY-MM-DD format!
-date: 2015-3-21
+date: 2015-03-21
 labels:
   - Volunteering
   - Mentoring
