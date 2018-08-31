@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: master/gameProject.jpg
+image: images/binaryProject.jpg
 title: Binary Search Tree
 permalink: projects/BinarySearchTree
 # All dates must be YYYY-MM-DD format!
