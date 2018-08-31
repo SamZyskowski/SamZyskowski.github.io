@@ -82,8 +82,15 @@
         "Lived and learned with the community",
         "Lead groups on the worksite with local laborers"
       ]
-    },
+    }
+  ], 
+  "references": [
+    {
+      "name": "Available upon request",
+      "referece": ""
+    }
   ]
+}
   
  
-}
+
