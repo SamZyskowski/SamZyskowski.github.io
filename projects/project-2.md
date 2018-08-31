@@ -10,7 +10,7 @@ labels:
   - Volunteering
   - Mentoring
   - Laboring
-summary: Two week-long service trips to help build schools in socioeconomically broken communities.
+summary: Two week-long service trips to help build schools in socioeconomically broken communities in Central Nicaragua.
 ---
 
 <img class="ui medium right floated rounded image" src="../master/NicProject.jpeg">
