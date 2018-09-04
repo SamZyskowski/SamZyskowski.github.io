@@ -13,7 +13,7 @@ labels:
 summary: Two week-long service trips to help build schools in socioeconomically broken communities in Central Nicaragua.
 ---
 
-<img class="ui medium right floated rounded image" src="../master/NicProject.jpeg">
+<img class="ui medium right floated rounded image" src="../images/NicProject.jpeg">
 
 Our group, through the nonprofit organization Seeds of Learning, fundraised year-round for a week-long trip to Nicaragua.  There we helped local workers break ground for a new school building, and stayed in the community with the native people.  We took part in numerous cultural exchange activities with all the children there, as well as the rest of the locals. 
 
